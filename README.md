@@ -1,4 +1,4 @@
-# 华南理工大学第十六届“挑战杯”大学生课外学术科技作品竞赛(http://www2.scut.edu.cn/youth/2019/0109/c11096a303287/page.htm)
+# [华南理工大学第十六届“挑战杯”大学生课外学术科技作品竞赛](http://www2.scut.edu.cn/youth/2019/0109/c11096a303287/page.htm)
 # [一种基于蓝牙和语音控制的智能家居系统](https://github.com/scutcyr/scut_16th_tzb)
 # 项目概况
 
